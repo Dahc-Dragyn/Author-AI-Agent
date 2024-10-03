@@ -1,0 +1,13 @@
+openai
+langchain==0.0.236
+chromadb
+huggingface-hub
+sentence-transformers
+python-dotenv
+#Explanation of each package:
+#openai: For OpenAI API integration to use GPT models.
+#langchain==0.0.236: The core library used to manage chains, embeddings, and QA functionality.
+#chromadb: For vector database and document retrieval.
+#huggingface-hub: For integrating models from Hugging Face Hub.
+#sentence-transformers: Provides support for sentence-level embeddings from Hugging Face.
+#python-dotenv: For managing environment variables from a .env file.
