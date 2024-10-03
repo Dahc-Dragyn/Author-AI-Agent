@@ -1,0 +1,11 @@
+# Ignore environment variables and API keys
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directories
+venv/
+env/
